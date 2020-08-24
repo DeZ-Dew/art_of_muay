@@ -1,0 +1,3 @@
+# art_of_muay
+
+This is my solo project Art of Muay. This is a site where muay thai practictioners and enthusiasts can connect while watching training videos and media such as movies and video games based on Muay Thai. What went well about doing this project is putting it together and experimenting how it will look. Adding videos to the HTML pages were straight forward and not complicated to do. What didn't work was having a video background on my main page and for some reason when I was trying to get into "Wall of Muay" it kicked back into the Login/Reg page. I had limited time, but I'm not giving up and will continue to build this out to my vision. 
